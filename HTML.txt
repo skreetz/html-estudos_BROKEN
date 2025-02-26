@@ -1,0 +1,27 @@
+
+TAGS
+<hr> - Linha Horizontal
+h1 - título NA pag
+b - negrito
+i - itálico
+mark - texto marcado
+big (obsoleto) - texto grande
+small - texto pequeno
+del - texto riscado
+ins - texto sublinhado
+sup - elevado
+sub - rebaixado
+code - fonte pra código
+pre - "identação"
+q - citação com aspas
+blockquote - citação de verdade 
+abbr - "referência"
+bdo - texto invertido
+
+ctrl + shift + p 
+wrap with abbreviation
+enter
+tag a ser usada
+enter
+
+shift + tab - volta 
