@@ -17,6 +17,14 @@ q - citação com aspas
 blockquote - citação de verdade 
 abbr - "referência"
 bdo - texto invertido
+ol - criar lista ordenada
+li - dentro do ol, para numerar a lista
+ol type - muda a forma de numeração da lista
+ul - criar lista NÃO ordenada
+ul type - muda o formato de numeração
+dl - iniciar um dicionário
+dt - termo
+dd - significado
 
 ctrl + shift + p 
 wrap with abbreviation
@@ -25,3 +33,12 @@ tag a ser usada
 enter
 
 shift + tab - volta 
+segurar alt e clicar nas linhas para apagar simultaneamente
+
+ctrl + shift + p 
+wrap with abbreviation
+enter
+a
+fazer link
+target="_blank" rel="external"
+SEMPRE com esse final
