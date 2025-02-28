@@ -25,6 +25,7 @@ ul type - muda o formato de numeração
 dl - iniciar um dicionário
 dt - termo
 dd - significado
+target="_blank" - abrir uma nova guia
 
 ctrl + shift + p 
 wrap with abbreviation
@@ -42,3 +43,12 @@ a
 fazer link
 target="_blank" rel="external"
 SEMPRE com esse final
+
+para navegação entre páginas
+rel="next" - na primeira página
+rel="prev" - na segunda página
+
+../ - voltar diretórios
+
+a href="diretorio/arquivod" download="arquivo"
+a href="diretorio/arquivod" download="arquivo" type="application/tipo de arquivo"
