@@ -26,6 +26,8 @@ dl - iniciar um dicionário
 dt - termo
 dd - significado
 target="_blank" - abrir uma nova guia
+audio controls - controles do audio
+video controls - controles do video
 
 ctrl + shift + p 
 wrap with abbreviation
@@ -52,3 +54,6 @@ rel="prev" - na segunda página
 
 a href="diretorio/arquivod" download="arquivo"
 a href="diretorio/arquivod" download="arquivo" type="application/tipo de arquivo"
+
+adicionar CSS
+<style>body{aquivaiascoisas}</style>
