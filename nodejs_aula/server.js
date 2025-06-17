@@ -8,6 +8,6 @@ app.get('/', (req, res) => {
 });
 
 // Inicia o servidor na porta especificada
-app.listen(port, () => {
-  console.log(`Servidor rodando em http://localhost:${port}`);
-});
+// app.listen(port, () => {
+//   console.log(`Servidor rodando em http://localhost:${port}`);
+// });
