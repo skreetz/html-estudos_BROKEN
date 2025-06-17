@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/skreetz/html-estudos#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "vim": "^0.1.0",
+    "vite": "^6.3.5"
   }
 }
