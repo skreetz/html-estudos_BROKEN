@@ -2,7 +2,7 @@
   "name": "html-unileste",
   "version": "1.0.0",
   "description": "HTML Projeto",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -23,5 +23,6 @@
     "express": "^5.1.0",
     "vim": "^0.1.0",
     "vite": "^6.3.5"
-  }
+  },
+  "devDependencies": {}
 }
